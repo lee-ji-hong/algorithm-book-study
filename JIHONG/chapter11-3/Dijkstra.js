@@ -1,3 +1,4 @@
+// 다익스트라 알고리즘 - 우선순위 큐 사용
 function solution(graph, start) {
   let distances = {};
   let previous = {};
